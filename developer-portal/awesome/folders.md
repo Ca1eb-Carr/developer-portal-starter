@@ -44,7 +44,7 @@ Great? Now, revert the name back to `folders.md` and revert the change in the `s
 ### Move the file to a different folder
 
 Move this `folders.md` to the root directory.
-The root directory means it will site side-by-side with other files and folders such as `siteConfig.yaml` and `sidebars.yaml`.
+The root directory means it will sit side-by-side with other files and folders such as `siteConfig.yaml` and `sidebars.yaml`.
 
 This file is referenced in `sidebars.yaml`.
 Adjust the relative path to the file from there again.
